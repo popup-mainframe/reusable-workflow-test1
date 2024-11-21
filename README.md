@@ -32,5 +32,5 @@ This repository is used to showcase examples of reusable workflows.
 ####  Action: This workflow processes the input_message on a Windows machine and outputs the message for logging or further processing.
 
 # How to Trigger Workflows
-  Manual Trigger: Some workflows (e.g., Workflow A, Main A) can be triggered manually via the GitHub UI. When triggered, you will be prompted to provide an input_message.
-  Workflow Chaining: Other workflows (e.g., Workflow B, Main B) are called by preceding workflows via workflow_call. The input message is passed along through this chain.
+#### Manual Trigger: Some workflows (e.g., Workflow A, Main A) can be triggered manually via the GitHub UI. When triggered, you will be prompted to provide an input_message.
+#### Workflow Chaining: Other workflows (e.g., Workflow B, Main B) are called by preceding workflows via workflow_call. The input message is passed along through this chain.
