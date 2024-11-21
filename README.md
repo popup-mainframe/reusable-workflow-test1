@@ -1,8 +1,6 @@
 # reusable-workflow-test1
 This repository is used to showcase examples of reusable workflows.
 
-This repo are used for working on example on the concept of reusable workflows
-
 # Workflow Overview
   This repository contains multiple GitHub Actions workflows that are interconnected, enabling the passing of input messages between different workflows for processing. The workflows are designed to be reusable 
   and can be triggered manually or by other workflows. Below is a breakdown of each workflow and its role in the overall setup.
